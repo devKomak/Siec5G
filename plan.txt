@@ -1,10 +1,8 @@
-1. Opis działania sieci 5G
-2. Różnice między 3/4/5 G
-3. Obszar dzialania sieci
-4. Zalety sieci 5G
-5. Zagrożenia
-6. zasada działania
-7. Architektura sieci 5g
-8. 5G w Polsce
-9. Kontrowersje
- 
+1. Wstęp - ICT- Teleinformatyka
+2. Opis działania sieci komórkowych
+3. Różnice między 3/4/5 G
+4. Zasięg sieci na terenie Poslki 
+5. Zasięg na terenie Europy i USA
+6. Zalety sieci 5G
+7. Wady sieci 5G
+8. Kontrowersje
