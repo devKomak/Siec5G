@@ -1,9 +1,9 @@
-1. Opis dzia³ania sieci 5G
-2. Ró¿nice miêdzy 3/4/5 G
+1. Opis dziaÅ‚ania sieci 5G
+2. RÃ³Å¼nice miÄ™dzy 3/4/5 G
 3. Obszar dzialania sieci
 4. Zalety sieci 5G
-5. Zagro¿enia
-6. zasada dzia³ania
+5. ZagroÅ¼enia
+6. zasada dziaÅ‚ania
 7. Architektura sieci 5g
 8. 5G w Polsce
-9. Kontrowersjie
+9. Kontrowersje
